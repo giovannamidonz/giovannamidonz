@@ -1,5 +1,4 @@
 
-
 # Hey, guys!
 
 
@@ -7,7 +6,7 @@
 
 
 <p>
- Estou animado com minha jornada como desenvolvedor e compartilhar meu conhecimento com a comunidade. Seja bem-vindo ao meu GitHub, onde a paixão pela programação ganha vida."
+ Estou animada com minha jornada como desenvolvedor e compartilhar meu conhecimento com a comunidade. Seja bem-vindo ao meu GitHub, onde a paixão pela programação ganha vida."
 </p>
 
 
@@ -19,7 +18,7 @@
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=prussian&preferLogin=false">
     <img  alt="giovannamidonz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/giovannamidonz?cardType=github&theme=prussian&preferLogin=false" />
   </a>
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannamidonz&layout=compact&hide_border=true&title_color=5E0DFC&text_color=5E0DFC&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannamidonz&layout=compact&hide_border=true&title_color=37848C&text_color=37848C&bg_color=2C3F59" />
 
 
 </div>
