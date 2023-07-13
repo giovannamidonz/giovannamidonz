@@ -14,11 +14,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannamidonz/)[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/F32qMHrg)
 
 <div align="center">  
-
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=prussian&preferLogin=false">
-    <img  alt="giovannamidonz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/giovannamidonz?cardType=github&theme=prussian&preferLogin=false" />
-  </a>
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannamidonz&layout=compact&hide_border=true&title_color=37848C&text_color=37848C&bg_color=2C3F59" />
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=prussian&preferLogin=false"><img  alt="giovannamidonz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/giovannamidonz?cardType=github&theme=prussian&preferLogin=false" /></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannamidonz&layout=compact&hide_border=true&title_color=37848C&text_color=37848C&bg_color=2C3F59" />
 
 
 </div>
