@@ -43,13 +43,17 @@
 ## Studying in this moment:
 
 <div style="display= flex;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" style="margin-right: 20px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" style="margin-right: 20px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" style="margin-right: 20px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin-right: 20px"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" style="margin-right: 20px"/>   
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" style="margin-right: 20px"/>   
+</div>
           
           
 
-</div>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
